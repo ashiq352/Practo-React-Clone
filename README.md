@@ -19,7 +19,7 @@ This is a clone of the Practo India App, built with ReactJS, styled-components, 
 
 ## Deployed Link
 
- - [Live Site](practo-pranavdalvi9.vercel.app/)
+ - [Live Site](https://practo-pranavdalvi9.vercel.app/)
  
 <div style='page-break-after: always'></div>
 
@@ -53,7 +53,8 @@ Ashiq Khan
 
 > <a href="https://www.linkedin.com/in/ashiq-khan-412709222" target="_blank">Linkedin</a>
 
->- My PortFolio-[@Ashiq_Khan](https://new-portfolio-myseyso3g-ashiq352.vercel.app/#//)
+> <a href="https://www.linkedin.com/in/ashiq-khan-412709222" target="_blank">PortFolio</a>
+
 
 
 
