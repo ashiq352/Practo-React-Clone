@@ -53,7 +53,7 @@ Ashiq Khan
 
 > <a href="https://www.linkedin.com/in/ashiq-khan-412709222" target="_blank">Linkedin</a>
 
-> <a href="https://www.linkedin.com/in/ashiq-khan-412709222" target="_blank">PortFolio</a>
+> <a href="https://ashiqkhan-portfilio.netlify.app/#/" target="_blank">PortFolio</a>
 
 
 
